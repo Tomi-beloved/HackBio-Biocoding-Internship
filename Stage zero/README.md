@@ -29,5 +29,5 @@ The code include a final print statement that prints the organized output in a l
 
 Our data came out neatly structured and well arranged.
 
-# Linkedin Video link: **
+# Linkedin Video link: **https://www.linkedin.com/posts/tomilayo-fadairo_hackbio-internship-bioinformatics-activity-7294108816944566273-C7yd?utm_source=share&utm_medium=member_ios**
 
