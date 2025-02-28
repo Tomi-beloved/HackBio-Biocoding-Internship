@@ -49,6 +49,8 @@ Determine the upregulated genes (Genes with Log2FC > 1 and pvalue < 0.01)
 Determine the upregulated genes (Genes with Log2FC < -1 and pvalue < 0.01)
 What are the functions of the top 5 upregulated genes and top 5 downregulated genes. (Use genecards)
 
+**Linkedin Video Link:** **https://www.linkedin.com/posts/tomilayo-fadairo_genomics-geneexpression-volcanoplot-activity-7301277549043576832-wODk?utm_source=share&utm_medium=member_ios&rcm=ACoAAD1NCRwB4Gy_puwDIeyupvlreDZI5d6DdEw**
+
 ---
 
 # Task Code 2.7: Public Health
